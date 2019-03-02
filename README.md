@@ -13,6 +13,6 @@ The following items need to be updated in the script to reflect you local and re
 ## Command Syntax
 Calling the script is relativly straightforward:
 
-'./hugo_publish.sh <THEME_NAME>'
+`./hugo_publish.sh <THEME_NAME>`
 
 Note: The script assumes it is located within the directory structure of your Hugo project
